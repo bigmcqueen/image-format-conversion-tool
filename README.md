@@ -16,7 +16,7 @@ After that, you can build this tool with the following commands:
 
 ```shell:bash
 $ git clone https://github.com/BigMcQueen/image-format-conversion-tool.git
-$ cd ifc
+$ cd image-format-conversion-tool
 $ go build -o ifc
 ```
 
